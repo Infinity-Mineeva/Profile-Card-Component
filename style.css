@@ -1,0 +1,103 @@
+/* GLOBAL STYLES */
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    color:  hsl(0, 0%, 59%);
+    box-sizing: border-box;
+    background: url(./images/bg-pattern-top.svg)  hsl(185, 75%, 39%); 
+}
+
+/* TYPOGRAPHY */
+
+span {
+    font-weight: 700;
+    color: hsl(227, 10%, 46%);
+}
+
+.card > div > p:nth-child(1){
+    margin-top: 6rem;
+    margin-bottom: .5em;
+}  
+
+.location {
+    margin-top: 0;
+    font-size: .950rem;
+    margin-bottom: 1.5em;
+}
+
+.stat-label {
+    font-size: .8rem;
+    margin: .5em 0 2em 0;
+}
+
+
+/* CARD */
+
+.card {
+    background: url(./images/bg-pattern-card.svg);
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    min-height: 375px;
+    min-width: 326px;
+    border-radius: 1em;
+    position: relative;
+}
+
+/* IMAGE */
+
+.profile-pic {
+    height: 106px;
+    width: 106px;
+    margin: 0 auto;
+    border-radius: 50em;
+    border: 5px solid white;
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    
+}
+
+/* PROFILE STATS */
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8em;
+    text-align: center;
+    background: white;
+    border-radius: 0 0 1em 1em;
+}
+
+.profile-stats {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    border-top: 1px solid hsl(0, 0%, 59%);
+    padding-top: 2em;
+
+}
+
+
+/* ATTRIBUTION */
+
+.attribution {
+   position: fixed;
+   bottom: 0;
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(227, 10%, 46%);
+    font-weight: 700;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
