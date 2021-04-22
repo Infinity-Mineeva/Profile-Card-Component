@@ -38,7 +38,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Profile Card Component (HTML, CSS)](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-html-css-89CWsIix1)
 - Live Site URL: [Profile Card Component Deploy](https://infinity-mineeva.github.io/Profile-Card-Component/)
 
 ## My process
