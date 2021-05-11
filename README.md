@@ -67,7 +67,7 @@ Also, I really like using Flexbox
 
 ## Author
 
-- Frontend Mentor - [@Infinity-Mineevae](https://www.frontendmentor.io/profile/Infinity-Mineeva)
+- Frontend Mentor - [@Infinity-Mineeva](https://www.frontendmentor.io/profile/Infinity-Mineeva)
 
 
 
